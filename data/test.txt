@@ -1,0 +1,39 @@
+MIME-Version: 1.0
+Received: by 2002:ab0:4eda:0:0:0:0:0 with HTTP; Thu, 21 Jun 2018 18:35:42
+ -0700 (PDT)
+Date: Thu, 21 Jun 2018 21:35:42 -0400
+Delivered-To: mark.soliman73@gmail.com
+Message-ID: <CABSQnSmS8MrnUWgNDpNXsFWjKgUdKVohK86H236Srnn-sOb6kQ@mail.gmail.com>
+Subject: Test for parser
+From: Mark Soliman <mark.soliman73@gmail.com>
+To: Mark Soliman <mark.soliman73@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000cf486d056f310c0f"
+
+--000000000000cf486d056f310c0f
+Content-Type: text/plain; charset="UTF-8"
+
+Hi
+
+this is a test body
+
+Mark Soliman
+
+mark.soliman73@gmail.com
+347 933 0816
+LinkedIn <https://www.linkedin.com/in/m-soliman/>
+
+--000000000000cf486d056f310c0f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi=C2=A0<div><br><div>this is a test body</div><div><br cl=
+ear=3D"all"><div><div class=3D"gmail_signature" data-smartmail=3D"gmail_sig=
+nature"><div dir=3D"ltr"><div style=3D"text-align:left"><font face=3D"arial=
+, helvetica, sans-serif">Mark Soliman</font></div><div><br></div><div><font=
+ size=3D"2"><a href=3D"mailto:mark.soliman73@gmail.com" target=3D"_blank">m=
+ark.soliman73@gmail.com</a></font></div><div><font size=3D"2">347 933 0816<=
+/font></div><div><a href=3D"https://www.linkedin.com/in/m-soliman/" target=
+=3D"_blank"><font size=3D"2">LinkedIn</font></a></div></div></div></div>
+</div></div></div>
+
+--000000000000cf486d056f310c0f--
